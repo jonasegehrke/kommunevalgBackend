@@ -7,7 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 class KommunevalgApplicationTests {
 
     @Test
-    void contextLoads() {
+    void getSortedKandidateList() {
+
+
     }
 
 }
